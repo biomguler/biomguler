@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 - muratgmbg@gmil.com
 - murat.guler@dkfz.de
-- twitter.com/muratguler0123
+- [twitter.com/muratguler0123](https://twitter.com/muratguler0123)
 
 
 -![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=biomguler&show_icons=true&theme=radical)
