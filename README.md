@@ -1,3 +1,8 @@
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="biomguler" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/biomguler?trk=profile-badge">Murat Güler</a></div>
+              
+              
+              
+
 <p align="center"><b>Hello, I'm Murat. I do genomic data science!</b></p>
 
 ### Who I am?
