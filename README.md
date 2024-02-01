@@ -1,5 +1,5 @@
-<p align="center"><b>Hello, I'm Murat. I do genomic data science!</b></p>
-<p align="center"><b>Big fan of open science!</b></p>
+
+![MG_background](https://github.com/biomguler/biomguler/assets/78000807/984dfc96-2184-4f2a-809e-cf0d93aae94b)
 
 ### Who I am?
 - 👋 Hi, I’m @biomguler, Murat Guler
