@@ -3,11 +3,11 @@
 ## 👨‍🔬 About Me
 Hi, I’m **Murat Guler** ([@biomguler](https://github.com/biomguler)) — a PhD student at **[Canzian Lab, DKFZ](https://www.dkfz.de/en/)**.  
 I’m passionate about **bioinformatics**, with a focus on **germline human genetics** and **computational genomics**.  
-Currently, I’m sharpening my skills in **Python** and developing pipelines for genomic analysis.
+
 
 - 🔬 PhD Candidate | **Canzian Lab @ DKFZ**
 - 🧬 Interested in **bioinformatics** & **human genetics**
-- 💻 Learning **Python** for genomic data analysis
+- 💻 **R** **Bash** **Python** for genomic data analysis
 - 🤝 Open to collaboration in **computational genomics**
 
 ---
