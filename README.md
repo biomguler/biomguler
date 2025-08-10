@@ -1,7 +1,7 @@
 ![MG_background](https://github.com/biomguler/biomguler/assets/78000807/984dfc96-2184-4f2a-809e-cf0d93aae94b)
 
 ## 👨‍🔬 About Me
-Hi, I’m **Murat Guler** ([@biomguler](https://github.com/biomguler)) — a PhD student at **[Canzian Lab, DKFZ](https://www.dkfz.de/en/)**.  
+Hi, I’m **Murat Guler** ([@biomguler](https://biomguler.github.io/)) — a PhD student at **[Canzian Lab, DKFZ](https://www.dkfz.de/en/)**.  
 I’m passionate about **bioinformatics**, with a focus on **germline human genetics** and **computational genomics**.  
 
 
