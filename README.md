@@ -20,7 +20,7 @@ I’m passionate about **bioinformatics**, with a focus on **germline human gene
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/biomguler/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=biomguler&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Murat's GitHub stats" /></a> | <a href="https://github.com/biomguler/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biomguler&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/biomguler/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=biomguler&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/biomguler/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biomguler&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
